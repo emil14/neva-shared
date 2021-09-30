@@ -1,0 +1,4 @@
+scope:
+  square: ./square
+
+export: [square]
