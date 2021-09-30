@@ -1,4 +1,6 @@
-scope:
+import:
   square: ./square
+  
+# no root - it's a library. this package cannot be executed by itself!
 
 export: [square]
