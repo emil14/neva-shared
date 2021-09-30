@@ -3,4 +3,8 @@ import:
   
 # no root - it's a library. this package cannot be executed by itself!
 
+# no deps! executable packages can also have no deps
+
+# it's possible to have imports without deps like here
+
 export: [square]
